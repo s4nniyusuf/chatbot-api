@@ -10,6 +10,10 @@ A simple chatbot api that uses redis to **store and retrieve chat history effici
 ---
 
 ### How to run
+```
+uv sync
+```
+
 ``` 
 uvicorn app.main:app --reload
 ```
