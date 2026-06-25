@@ -1,7 +1,4 @@
-A simple chatbot api that uses redis to
-> Store and retrieve chat history efficiently
-
-> Manage conversation context across requests
+A simple chatbot api that uses redis to **store and retrieve chat history efficiently** and **manage conversation context across requests**
 
 ---
 
